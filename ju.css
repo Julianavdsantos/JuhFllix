@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    text-align:left;
+    background-image: url('https://ibcdn.canaltech.com.br/8Z6mZNCeD-YLJcYHpG9p_dlfStE=/512x288/smart/i436698.jpeg');
+    background-color: #000000;
+    background-size: 0%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: red;
+  }
+ .logo{
+     display: table;
+     float: left;
+    
+  }
+
+  .opcoes{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: white;
+      display:table-cell;
+      padding: 15px;
+      margin:auto;
+      width: 900px;
+      word-spacing: 9px;
+      align-items: left;   
+       
+  }
+
+ header{
+     
+     background-color:black;
+
+     overflow: hidden;
+     position: fixed;
+     width: 100%;
+     opacity: 0.5;
+ }
+ 
+#video{
+
+    border-radius: 10PX;
+    
+}
